@@ -17,7 +17,7 @@ const Home = () => {
               </h1>
               <p className="text-[1.3rem] md:text-[1.6rem] font-normal text-[#4C4C4C] mt-5">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard.
+                industry. Lorem Ipsum has been the industrys standard.
               </p>
             </div>
             <div>
